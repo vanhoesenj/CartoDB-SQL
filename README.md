@@ -57,9 +57,9 @@ If you're not wowed by the intricacies of spatial databases, this may be the sec
 
 I'm ultimately interested in how we can simplify access to the power of PostGIS by tricking folks into using new tools within the all familiar browser. I specifically want to move explorations of [geologic data](http://j-vh.me/1fy5vkt) out Excel and traditional GIS tables into a PostGIS environment - enter, CartoDB.
 
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/vanhoesenj/CartoDB-SQL/master/archer.jpg">
+</p>
+<p align="center">
     Source: <a href="http://j-vh.me/1Nax55b">Meme Generator</a>
 </p>
