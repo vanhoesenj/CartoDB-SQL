@@ -22,7 +22,7 @@ But is worth taking the time to develop some fluency with SQL & understand how P
 <p align="center">
     Source: <a href="https://xkcd.com/327/">XKCD</a>  
 </p>
-
+<br>
 
 > "The most important motivation for the research work that resulted in the relational model was the objective of providing a sharp and clear boundary between the logical and physical aspects of database management." -- **E.F. Codd** <br>
 
