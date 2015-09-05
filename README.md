@@ -18,7 +18,7 @@ But is worth taking the time to develop some fluency with SQL & understand how P
 
 <p align="center">
   <img src="http://imgs.xkcd.com/comics/exploits_of_a_mom.png">
-    **Source**: <a href="https://xkcd.com/327/">XKCD</a> |
+    Source: <a href="https://xkcd.com/327/">XKCD</a> 
 </p>
 
 
@@ -28,7 +28,7 @@ But is worth taking the time to develop some fluency with SQL & understand how P
 # **Yeah Yeah, But What Can I Do With CartoDB?**
 <p align="center">
   <img src="http://i.giphy.com/cg42AhGl8Ewk8.gif">
-    **Source**: <a href="http://giphy.com/gifs/reactiongifs-30-rock-bored-cg42AhGl8Ewk8">Giphy</a>
+    Source: <a href="http://giphy.com/gifs/reactiongifs-30-rock-bored-cg42AhGl8Ewk8">Giphy</a>
 </p>
 
 If you're not wowed by the intricacies of spatial databases, this may be the section you were looking for... The following links provide insight how to leverage the power of PostGIS specifically within CartoDB. They are organized in order of technical difficulty (although towards the end that becomes little more subjective).
@@ -58,5 +58,5 @@ I'm ultimately interested in how we can simplify access to th power of PostGIS b
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/vanhoesenj/CartoDB-SQL/master/utopia.png">
-    **Source**: <a href="http://j-vh.me/1fy5vkt">JVH</a>
+    Source: <a href="http://j-vh.me/1fy5vkt">JVH</a>
 </p>
