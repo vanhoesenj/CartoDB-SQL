@@ -18,7 +18,7 @@ But is worth taking the time to develop some fluency with SQL & understand how P
 
 <p align="center">
   <img src="http://imgs.xkcd.com/comics/exploits_of_a_mom.png">
-    Source: <a href="https://xkcd.com/327/">XKCD</a> 
+    Source: <a href="https://xkcd.com/327/">XKCD</a>  
 </p>
 
 
@@ -27,7 +27,7 @@ But is worth taking the time to develop some fluency with SQL & understand how P
 ---
 # **Yeah Yeah, But What Can I Do With CartoDB?**
 <p align="center">
-  <img src="http://i.giphy.com/cg42AhGl8Ewk8.gif">
+  <img src="http://i.giphy.com/cg42AhGl8Ewk8.gif"> 
     Source: <a href="http://giphy.com/gifs/reactiongifs-30-rock-bored-cg42AhGl8Ewk8">Giphy</a>
 </p>
 
