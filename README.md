@@ -4,7 +4,7 @@ The purpose of this resource is provide a summary of resources that explore the 
 
 # **Getting Started With PostGIS**
 
-The best starting out' reference I used was "[PostGIS in Action](https://www.manning.com/books/postgis-in-action-second-edition)" by Obe and Hsu. However these are few other resources on my radar:
+The best ''starting out' reference I used was "[PostGIS in Action](https://www.manning.com/books/postgis-in-action-second-edition)" by Obe and Hsu. However these are few other resources on my radar:
 
 * This DZone [Reference Card #190](https://dzone.com/refcardz/essential-postgis) serves as a nice quick reference. You can download the PDF and tape it on your desk! Or not... 
 * [Boundless](http://workshops.boundlessgeo.com/postgis-intro/) offers a nice tutorial complete with data. ***Note**: the advantage of using CartoDB is you don't need to install PostgreSQL & PostGIS on your own machine.*
@@ -22,9 +22,8 @@ But is worth taking the time to develop some fluency with SQL & understand how P
 <p align="center">
     Source: <a href="https://xkcd.com/327/">XKCD</a>  
 </p>
-<br>
 
-> "The most important motivation for the research work that resulted in the relational model was the objective of providing a sharp and clear boundary between the logical and physical aspects of database management." -- **E.F. Codd** <br>
+> "The most important motivation for the research work that resulted in the relational model was the objective of providing a sharp and clear boundary between the logical and physical aspects of database management." -- **E.F. Codd** <br><br>
 
 ---
 # **Yeah Yeah, But What Can I Do With CartoDB?**
@@ -56,7 +55,7 @@ If you're not wowed by the intricacies of spatial databases, this may be the sec
 *  Another SQL ninja (or maybe samurai is more alliteratively appropriate) is [Bill Morris](https://twitter.com/vtcraghead) who decided to create an [open-data portal](http://wboykinm.github.io/modular-geoportal/#15/44.4795/-73.2070) served through CartoDB. What makes this so awesome is PostGIS does the format conversations server side. 
 *  And [this](http://sandbox.azavea.com/cartodbvisualization/) visual from John Branigan is still one of my favorite created using the CartoDB SQL API. You can explore the underlying code [here](http://sandbox.azavea.com/cartodbvisualization/js/functions.js).
 
-I'm ultimately interested in how we can simplify access to th power of PostGIS by tricking folks into using new tools within the all familiar browser. I specifically want to move explorations of geologic data out Excel and traditional GIS tables into a PostGIS environment - enter, CartoDB.
+I'm ultimately interested in how we can simplify access to the power of PostGIS by tricking folks into using new tools within the all familiar browser. I specifically want to move explorations of geologic data out Excel and traditional GIS tables into a PostGIS environment - enter, CartoDB.
 
 
 
