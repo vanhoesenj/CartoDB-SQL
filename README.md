@@ -52,9 +52,11 @@ If you're not wowed by the intricacies of spatial databases, this may be the sec
 *  Another SQL ninja (or maybe samurai is more alliteratively appropriate) is [Bill Morris](https://twitter.com/vtcraghead) who decided to create an [open-data portal](http://wboykinm.github.io/modular-geoportal/#15/44.4795/-73.2070) served through CartoDB. What makes this so awesome is PostGIS does the format conversations server side. 
 *  And [this](http://sandbox.azavea.com/cartodbvisualization/) visual from John Branigan is still one of my favorite created using the CartoDB SQL API. You can explore the underlying code [here](http://sandbox.azavea.com/cartodbvisualization/js/functions.js).
 
+I'm ultimately interested in how we can simplify access to th power of PostGIS by tricking folks into using new tools within the all familiar browser. I specifically want to move explorations of geologic data out Excel and traditional GIS tables into a PostGIS environment - enter, CartoDB.
+
 
 
 <p align="center">
-  <img src="http://i.giphy.com/cg42AhGl8Ewk8.gif">
+  <img src="https://raw.githubusercontent.com/vanhoesenj/CartoDB-SQL/master/utopia.png">
     **Source**: <a href="http://j-vh.me/1fy5vkt">JVH</a>
 </p>
