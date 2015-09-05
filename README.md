@@ -60,6 +60,6 @@ I'm ultimately interested in how we can simplify access to the power of PostGIS 
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vanhoesenj/CartoDB-SQL/master/archer.png">
+  <img src="https://raw.githubusercontent.com/vanhoesenj/CartoDB-SQL/master/archer.jpg">
     Source: <a href="http://j-vh.me/1Nax55b">Meme Generator</a>
 </p>
