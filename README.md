@@ -13,7 +13,7 @@ The best 'starting out' reference I used was "[PostGIS in Action](https://www.ma
 * There is also "[PostGIS Essentials](http://j-vh.me/1OlQqzc)" by Angel Marquz, which I haven't reviewed or ordered.
 * And lastly, if you REALLY want to dive deep into database architecture (it gets deep fast, but still fascinating), Reynold Xin maintains a great GitHub repository of [seminal papers](https://github.com/rxin/db-readings).
 
-But is worth taking the time to develop some fluency with SQL & understand how PostGIS is different than [other](http://www.spatiallyadjusted.com/spatialtau-v2-9-geodatabase-vs-geodatabase/) spatial databases you make be more familiar with or be ready to endure some growing pains.
+But it is worth taking the time to develop some fluency with SQL & understand how PostGIS is different than [other](http://www.spatiallyadjusted.com/spatialtau-v2-9-geodatabase-vs-geodatabase/) spatial databases you make be more familiar with or be ready to endure some growing pains.
 
 
 <p align="center">
