@@ -34,7 +34,7 @@ But is worth taking the time to develop some fluency with SQL & understand how P
     Source: <a href="http://giphy.com/gifs/reactiongifs-30-rock-bored-cg42AhGl8Ewk8">Giphy</a>
 </p>
 
-If you're not wowed by the intricacies of spatial databases, this may be the section you were looking for... The following links provide insight how to leverage the power of PostGIS specifically within CartoDB. They are organized in order of technical difficulty (although towards the end that becomes little more subjective).
+If you're not wowed by the intricacies of spatial databases, this may be the section you were looking for... The following links provide insight how to leverage the power of PostGIS specifically within CartoDB. They are organized in order of technical difficulty (although towards the end that becomes a little more subjective).
 
 * This [CartoDB](http://academy.cartodb.com/courses/04-sql-postgis.html) tutorial offers a gentle introduction to PostGIS & SQL within the browser.
 * And an additional [tutorial](http://academy.cartodb.com/courses/03-cartodbjs-ground-up.html) on querying a CartoDB table using the CartoDB.js library.
