@@ -1,6 +1,6 @@
 # **Resources For Using PostGIS & SQL in CartoDB**
 
-The purpose of this resource is provide a summary of resources that explore the power of using SQL queries within CartoDB. The CartoDB platform is often seen as an easy entry option for creating interactive and visually compelling web-based maps. While true, the real power of CartoDB (IMO) lies in providing cloud-based access to PostgreSQL+PostGIS; the underlying spatially-enabled database. My assumption is that if you're reading this you probably have *some* understand of the SQL language and/or PostGIS but just want to explore how to utilize it within a browser or using JavaScript. 
+My hope with this page is to provide a summary of resources that explore the power of using SQL queries within CartoDB (and remember to update it...). The CartoDB platform is often seen as an easy-to-learn entry option for creating interactive and visually compelling web-based maps. While true, the real power of CartoDB (IMO) lies in providing cloud-based access to PostgreSQL+PostGIS; the underlying spatially-enabled database. My assumption is that if you are reading this you probably have *some* understand of the SQL language and/or PostGIS but just want to explore how to utilize it within a browser or using CartoDB's API. To be clear I'm not a SQL or JavaScript 'expert' - just a passionate convert trying to keep my head above the frequently crashing waves of neogeospatial goodness.   
 
 # **Getting Started With PostGIS**
 
@@ -8,7 +8,7 @@ The best 'starting out' reference I used was "[PostGIS in Action](https://www.ma
 
 * This DZone [Reference Card #190](https://dzone.com/refcardz/essential-postgis) serves as a nice quick reference. You can download the PDF and tape it on your desk! Or not... 
 * [Boundless](http://workshops.boundlessgeo.com/postgis-intro/) offers a nice tutorial complete with data. ***Note**: the advantage of using CartoDB is you don't need to install PostgreSQL & PostGIS on your own machine.*
-* For more advanced PostGIS users I highly recommend the"[PostGIS Cookbook](http://j-vh.me/1OlPWZE)" by Corti et al. (2014). And I would follow [Steven Mather](https://twitter.com/smathermather) (for more than just PostGIS-related topics, you like drones too right?)
+* For more advanced PostGIS users I highly recommend the"[PostGIS Cookbook](http://j-vh.me/1OlPWZE)" by Corti et al. (2014). And I would follow [Steven Mather](https://twitter.com/smathermather) (for more than just PostGIS-related topics; you like [drones](http://opendronemap.github.io/odm/) too right?)
 * I also recently ordered "[How Do I Do That In PostGIS](http://j-vh.me/1OlPI4O): Illustrating Classic GIS Tasks" by Arthur Lembo. Still need to work through this one.
 * There is also "[PostGIS Essentials](http://j-vh.me/1OlQqzc)" by Angel Marquz, which I haven't reviewed or ordered.
 * And lastly, if you REALLY want to dive deep into database architecture (it gets deep fast, but still fascinating), Reynold Xin maintains a great GitHub repository of [seminal papers](https://github.com/rxin/db-readings).
